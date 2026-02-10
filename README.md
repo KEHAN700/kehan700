@@ -9,9 +9,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KEHAN700&label=👁️+Просмотров+Профиля&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/KEHAN700?label=Подписчики&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/KEHAN700?label=Звёзды&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=KEHAN700&label=%F0%9F%91%81%EF%B8%8F+%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2+%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/KEHAN700?label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/KEHAN700?label=%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%8B&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
 
