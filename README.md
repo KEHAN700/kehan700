@@ -31,19 +31,19 @@ and design UI in **Figma**. Fast replies, clean code, clear instructions.
 
 <h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack</h2>
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" align="center"> Languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,cpp&theme=dark" alt="Languages" />
 </p>
 
-<h3 align="center">🌐 Frontend</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider%20Web.png" width="28" align="center"> Frontend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend" />
 </p>
 
-<h3 align="center">🤖 Backend & Bots</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="28" align="center"> Backend & Bots</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
@@ -55,13 +55,13 @@ and design UI in **Figma**. Fast replies, clean code, clear instructions.
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="28" align="center"> Databases</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
 </p>
 
-<h3 align="center">🛠️ Tools & Deploy</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" align="center"> Tools & Deploy</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel&theme=dark" alt="Tools" />
@@ -69,7 +69,7 @@ and design UI in **Figma**. Fast replies, clean code, clear instructions.
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
-<h3 align="center">🎨 Design</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Artist.png" width="28" align="center"> Design</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
@@ -91,7 +91,7 @@ and design UI in **Figma**. Fast replies, clean code, clear instructions.
 
 <br>
 
-<h3 align="center">✨ Thanks for visiting! ✨</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="28" align="center"> Thanks for visiting!</h3>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
