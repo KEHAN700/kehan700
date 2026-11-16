@@ -83,7 +83,7 @@ and design UI in **Figma**. Fast replies, clean code, clear instructions.
 
 <div align="center">
   
-[![Fiverr](https://img.shields.io/badge/Hire_me_on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/bogdan_waley)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge)](https://www.fiverr.com/bogdan_waley)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KEHAN700)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/dizzer8914)
 
